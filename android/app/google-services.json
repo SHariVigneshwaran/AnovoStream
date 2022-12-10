@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "781610144139",
+    "firebase_url": "https://anovo-7d6a5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anovo-7d6a5",
+    "storage_bucket": "anovo-7d6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781610144139:android:bf40e2323a2a34ac599f8e",
+        "android_client_info": {
+          "package_name": "com.capital.anovo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781610144139-m4mgi95e0ilr75cbcf0hoq9vm0b3roqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capital.anovo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "781610144139-tctir5du575popc4g6shifl65hnu1mbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjYC4hx4Qd0ibIyYdDARk-3zv8AO90Pvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781610144139-tctir5du575popc4g6shifl65hnu1mbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781610144139-stllj2uj7all972r045b8fsmbfn618cl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.capital.anovo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>781610144139-stllj2uj7all972r045b8fsmbfn618cl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.781610144139-stllj2uj7all972r045b8fsmbfn618cl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>781610144139-m4mgi95e0ilr75cbcf0hoq9vm0b3roqn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLfS8wy156VRfCd2OeKtITBSGhrQAHxEw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>781610144139</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.capital.anovo</string>
+	<key>PROJECT_ID</key>
+	<string>anovo-7d6a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anovo-7d6a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:781610144139:ios:f090aaa7a09b1255599f8e</string>
+	<key>DATABASE_URL</key>
+	<string>https://anovo-7d6a5-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
